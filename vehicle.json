@@ -1,0 +1,13 @@
+{
+	"vinList": [{
+		"plateNo": "36363636",
+		"vin": "TEST345242354TEST",
+		"truckNo": "123645871236548965"
+	}, {
+		"plateNo": "123TN04",
+		"vin": "111111111111111111",
+		"truckNo": "TEST"
+	}],
+	"fleetListAvailable": "true",
+	"status": "Success"
+}
