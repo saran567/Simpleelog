@@ -1,0 +1,29 @@
+{
+	"companyList": [{
+		"country": "US",
+		"zipCode": "60525",
+		"address": "5021 GLENCOE AVE",
+		"compId": 796,
+		"city": 796,
+		"mobile": "8722236340",
+		"phoneNum": "",
+		"state": "IL",
+		"dotNumber": "",
+		"compName": "INFINITE RUSH TRANSPORTATION INC",
+		"email": "rush_trucks@yahoo.com"
+	}, {
+		"country": "US",
+		"zipCode": "49013",
+		"address": "48884 M-43",
+		"compId": 809,
+		"city": 809,
+		"mobile": "6169159263",
+		"phoneNum": "",
+		"state": "MI",
+		"dotNumber": "",
+		"compName": "Sprinty Express",
+		"email": "sprintyexpress@yahoo.com"
+	}],
+	"driverListAvailable": "true",
+	"status": "Success"
+}
